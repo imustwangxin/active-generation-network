@@ -50,29 +50,29 @@ This repo contains the results of AGN's visualization of seen actions, unseen ac
 ## 3. More Examples
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/25-26E0output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/25-26E0output.gif" width="800" height="200"> 
 </div>
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/31-04E0output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/31-04E0output.gif" width="800" height="200"> 
 </div>
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/31-26E0output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/31-26E0output.gif" width="800" height="200"> 
 </div>
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/35-04E1output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/35-04E1output.gif" width="800" height="200"> 
 </div>
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/35-26E2output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/35-26E2output.gif" width="800" height="200"> 
 </div>
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/39-04E1output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/39-04E1output.gif" width="800" height="200"> 
 </div>
 
 <div align="center">
-<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/UnseenActions/39-26E0output.gif" width="800" height="200"> 
+<img src="https://github.com/imustwangxin/Active_Generation_Network/blob/main/MoreExamples/39-26E0output.gif" width="800" height="200"> 
 </div>
